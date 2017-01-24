@@ -6,7 +6,7 @@ This neuron allows you to send a message to slack (channel or IM).
 
 ## Installation
 ```bash
-kalliope install --git-url https://github.com/royto/slack_neuron.git
+kalliope install --git-url https://github.com/royto/kalliope_slack.git
 ```
 
 ## Options
